@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Prerak Patel**
 - GitHub: [@KingPrerak](https://github.com/KingPrerak)
-- LinkedIn: [Prerak Patel](https://linkedin.com/in/prerak-patel)
+- LinkedIn: [Prerak Patel](https://www.linkedin.com/in/prerak-patel-60a908219/)
 
 ## 🙏 Acknowledgments
 
